@@ -22,7 +22,7 @@ My working rule: **a claim isn't real until it's been measured against an indepe
 
 | Project | What it is | The measured part |
 |---|---|---|
-| **Vedic astrology engine** | Production ephemeris + chart calculation serving a live business. 64 REST endpoints, multi-language vector chart rendering. | Replaced an AGPL ephemeris and proved the swap numerically equivalent across **17,893 oracle checks**. [notes →](https://github.com/ametavinayak/kundli-architecture) |
+| **Vedic astrology engine** | Production ephemeris + chart calculation serving a live business. 64 REST endpoints, multi-language vector chart rendering. | Replaced an AGPL ephemeris and proved the swap numerically equivalent across **17,893 oracle checks**. |
 | **UCI chess engine** | C++ with NNUE evaluation, ~23k LOC. | **3194 anchored Elo.** Every change SPRT-gated; negative results kept on the record. |
 | **EBIL simulator** | Multi-fidelity 1D/2D/3D first-principles nanolithography simulator. | **Negative result** — single-beam infeasible; quantifies the array pathway that works. [repo →](https://github.com/ametavinayak/ebil-sim) |
 | **Domain LLM** | QLoRA fine-tune of Qwen3-8B, self-built corpora, served in production. | Paired harness proved **four rounds of corpus work changed nothing measurable.** |
