@@ -14,8 +14,6 @@ Production astrology computation · chess engines · applied ML · first-princip
 
 ## About
 
-B.Tech student at **Guru Tegh Bahadur 4th Centenary Engineering College** (GGSIPU), 2028.
-
 I build things that run unattended and have to be correct — a computation engine serving a live business, a chess engine where every change passes a statistical significance gate, a physics simulator that returned a negative result I published rather than buried.
 
 My working rule: **a claim isn't real until it's been measured against an independent oracle.** Most of what follows is here because it survived that.
@@ -68,18 +66,15 @@ Counselling call/chat platform (Flutter + FastAPI, shipped to production) · ope
 
 ---
 
-## How I work
-
-**Verification is end-to-end or it doesn't count.** A passing unit test on a lookup table is not evidence. I check against a real entry point, on real inputs, versus an independent oracle — and when the harness and the engine disagree, I assume the harness is wrong first.
-
-**Negative results get published.** Three of the projects above are on this page specifically because they failed, and knowing *how* they failed is the useful part.
-
-**One hypothesis, one test.** Changing things until the symptom disappears isn't debugging, it's laundering the bug into somewhere harder to find.
-
----
+## Stats
 
 <div align="center">
-<sub>Most of my work lives in private repositories — commercial engines and client systems.<br>
-The public surface here is small on purpose, not for lack of output.<br>
-Happy to walk through any of it.</sub>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ametavinayak&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ametavinayak&theme=github-compact&hide_border=true&area=true)
+
+<sub>Most of my work is in private repositories — commercial engines and client systems.<br>
+The public repo count is small on purpose; the contribution graph is the honest measure.</sub>
+
 </div>
